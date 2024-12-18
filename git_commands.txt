@@ -1,1 +1,2 @@
 1. git status --> shows the status of the current file.
+2. git add . --> adds a change in the working directory to the staging area
